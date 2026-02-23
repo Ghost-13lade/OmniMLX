@@ -1,0 +1,21 @@
+# OmniMLX Dependencies
+# Core MLX servers
+mlx-lm
+mlx-vlm
+
+# Speech-to-Text (Ears)
+mlx-whisper
+
+# Text-to-Speech (Mouth)
+mlx-audio
+numpy
+soundfile
+
+# API servers
+fastapi
+uvicorn
+python-multipart
+httpx
+
+# Model downloads
+huggingface_hub
