@@ -29,8 +29,7 @@ OmniMLX isn't just a chat app. It's a **Backend** for your entire workflow.
 <img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 47 PM" src="https://github.com/user-attachments/assets/ca378d3c-06b2-4ee9-9f54-16b2e4b55215" />
 <img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 39 PM" src="https://github.com/user-attachments/assets/93c2b181-66a9-43b4-9cc6-230b9982f4f1" />
 <img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 22 PM" src="https://github.com/user-attachments/assets/4ce9d348-11d3-4355-83b2-7c50213e001b" />
-<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 47 PM" src="https://github.com/user-attachments/assets/69341552-bd37-4b1c-ac96-38b5df2ad778" />
-<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 50 07 PM" src="https://github.com/user-attachments/assets/a268e619-2802-4cb0-8095-e8b779d6a162" />
+
 
 ---
 
