@@ -23,8 +23,17 @@ OmniMLX isn't just a chat app. It's a **Backend** for your entire workflow.
 *   **🔍 Built-in Model Browser:** Search HuggingFace and download MLX models directly within the app.
 *   **☁️ Hybrid Gateway:** Flip a switch to route difficult tasks to GPT-4o (Cloud) while keeping easy tasks Local (Privacy).
 *   **🔋 Zero-Config:** Comes pre-loaded with Llama 3.2, Whisper v3, and Kokoro. Just click "Start."
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 50 19 PM" src="https://github.com/user-attachments/assets/b49e8627-95d0-4775-a068-df3947528fc0" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 50 07 PM" src="https://github.com/user-attachments/assets/a40509d9-d591-4344-a04c-aca78a4d436f" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 56 PM" src="https://github.com/user-attachments/assets/ab29f371-a044-4713-b6d2-1abfe184f0e3" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 47 PM" src="https://github.com/user-attachments/assets/ca378d3c-06b2-4ee9-9f54-16b2e4b55215" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 39 PM" src="https://github.com/user-attachments/assets/93c2b181-66a9-43b4-9cc6-230b9982f4f1" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 22 PM" src="https://github.com/user-attachments/assets/4ce9d348-11d3-4355-83b2-7c50213e001b" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 49 47 PM" src="https://github.com/user-attachments/assets/69341552-bd37-4b1c-ac96-38b5df2ad778" />
+<img width="646" height="616" alt="Screenshot 2026-02-22 at 9 50 07 PM" src="https://github.com/user-attachments/assets/a268e619-2802-4cb0-8095-e8b779d6a162" />
 
 ---
+
 
 ## 🛠 Quick Start
 
